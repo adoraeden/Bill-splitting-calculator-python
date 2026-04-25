@@ -1,6 +1,5 @@
 # Bill-splitting-calculator-python
 CLI-based bill splitting calculator built in Python.
-# Bill Splitting Calculator (Python)
 
 This is my first Python project. It is a simple CLI-based application that helps calculate and split a bill.
 
